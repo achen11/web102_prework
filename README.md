@@ -34,7 +34,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I think the biggest challenge was probably relearning some Javascript. I usually code in Python so I had to look up documentation and figure out some syntax things. 
 
 ## License
 
